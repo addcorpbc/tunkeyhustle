@@ -1,5 +1,6 @@
 
-header#header.info{display:none;}
-
-    border-right: 5px solid #dedede;
+header#header.info{display:none;
 }
+form span.req {
+    display: none;
+    }
